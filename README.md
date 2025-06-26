@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-I'm a third-year B.Tech Computer Science and Engineering student at **VIT-AP University, Amaravati**, specializing in **Data Analytics**. With a solid academic background (8.74 CGPA), I am passionate about solving real-world problems through data and technology.
+I'm a B.Tech Computer Science and Engineering student at **VIT-AP University, Amaravati**, specializing in **Data Analytics**. With a solid academic background (8.88 CGPA), I am passionate about solving real-world problems through data and technology.
 
 💡 I bring together the best of both worlds:
 - **Analytical Thinking**: Proficient in Data Analysis, Data Visualization, and Python.
@@ -60,33 +60,15 @@ Here are some featured projects from my portfolio:
   Login/Register system with SQLite backend and form validation.  
   _Technologies: Flask, HTML/CSS, SQLite_
 
-👉 Explore all my projects in the [Repositories](https://github.com/your-github-username?tab=repositories)
-
----
-
-### 🏆 Certifications & Internships
-
-- **AWS Cloud Practitioner**
-- **Full Stack Web Development**
-- **Intern: Data Analytics at InTrain Tech**
-  - Developed dashboards and automated reports using Power BI & Python
-
----
-
-### 💼 Career Goals
-
-My goal is to blend data, design, and development to create intuitive and intelligent digital experiences. I'm looking for opportunities in:
-- **Data Analytics**
-- **Frontend / Full Stack Development**
-- **Product Design (UI/UX)**
+👉 Explore all my projects in the [Repositories]([https://github.com/your-github-username?tab=repositories](https://github.com/VellankiRajesh?tab=repositories))
 
 ---
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/vellanki-rajesh)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
-- 📧 vellankirajesh123@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajesh-vellanki-1b09a4285/)
+- 🌐 [Portfolio Website](https://v-rajesh-portfolio.netlify.app/)
+- 📧 vellankirajesh2004@gmail.com
 
 ---
 
@@ -95,4 +77,3 @@ My goal is to blend data, design, and development to create intuitive and intell
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">Thank you for visiting my profile! 🚀</p>
