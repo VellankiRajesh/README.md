@@ -28,21 +28,31 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
+
 ---
+
 ### 📌 Projects
+
 - **Sales Forecast Dashboard** – Power BI report with sales trends  
 - **Credit Card EDA** – Python analysis of customer patterns  
 - **React Portfolio** – Responsive personal website using React & Tailwind  
 - **Flask Auth App** – Basic login/register app with SQLite
+
 🧠 [Explore All Projects →](https://github.com/VellankiRajesh?tab=repositories)
+
 ---
+
 ### 📊 GitHub Insights
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VellankiRajesh&layout=compact&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=VellankiRajesh&show_icons=true&theme=radical" height="150"/>
 </p>
+
 ---
+
 ### 🌐 Connect with Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajesh-vellanki-1b09a4285/)  
 - 🖥️ [Portfolio](https://v-rajesh-portfolio.netlify.app/)  
 - 📧 vellankirajesh2004@gmail.com
