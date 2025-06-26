@@ -71,9 +71,3 @@ Here are some featured projects from my portfolio:
 - 📧 vellankirajesh2004@gmail.com
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VellankiRajesh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VellankiRajesh&theme=radical" alt="GitHub Streak" />
-</p>
-
