@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Frontend Developer</h3>
 
 <p >
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Driven.+Design+Focused.+Always+Learning." />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+data+into+insights;Designing+clean+user+experiences;Learning+something+new+everyday!" />
 </p>
 
 ---
