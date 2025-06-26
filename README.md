@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-I'm a B.Tech Computer Science and Engineering student at **VIT-AP University, Amaravati**, specializing in **Data Analytics**. With a solid academic background (8.88 CGPA), I am passionate about solving real-world problems through data and technology.
+I'm a B.Tech Computer Science and Engineering student at **VIT-AP University, Amaravati**, specializing in **Data Analytics**. I am passionate about solving real-world problems through data and technology.
 
 💡 I bring together the best of both worlds:
 - **Analytical Thinking**: Proficient in Data Analysis, Data Visualization, and Python.
