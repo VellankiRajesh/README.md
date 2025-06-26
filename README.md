@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vellanki Rajesh</h1>
 <h3 align="center">Aspiring Data Analyst | Frontend Developer</h3>
 
-<p align = 'centre'>
+<p align = 'center'>
   <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+data+into+insights;Designing+clean+user+experiences;Learning+something+new+everyday!" />
 </p>
 
