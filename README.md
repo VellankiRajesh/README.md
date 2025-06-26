@@ -60,7 +60,7 @@ Here are some featured projects from my portfolio:
   Login/Register system with SQLite backend and form validation.  
   _Technologies: Flask, HTML/CSS, SQLite_
 
-👉 Explore all my projects in the [Repositories]([https://github.com/your-github-username?tab=repositories](https://github.com/VellankiRajesh?tab=repositories))
+👉 Explore all my projects in the [Repositories](https://github.com/VellankiRajesh?tab=repositories)
 
 ---
 
